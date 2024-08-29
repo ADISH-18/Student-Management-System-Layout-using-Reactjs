@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ADISH-18/Student-Management-System-Layout-using-Reactjs.git/static/css/main.969ff8fb.css",
+    "main.js": "/ADISH-18/Student-Management-System-Layout-using-Reactjs.git/static/js/main.2bf25286.js",
+    "static/js/453.4c5687d4.chunk.js": "/ADISH-18/Student-Management-System-Layout-using-Reactjs.git/static/js/453.4c5687d4.chunk.js",
+    "index.html": "/ADISH-18/Student-Management-System-Layout-using-Reactjs.git/index.html",
+    "main.969ff8fb.css.map": "/ADISH-18/Student-Management-System-Layout-using-Reactjs.git/static/css/main.969ff8fb.css.map",
+    "main.2bf25286.js.map": "/ADISH-18/Student-Management-System-Layout-using-Reactjs.git/static/js/main.2bf25286.js.map",
+    "453.4c5687d4.chunk.js.map": "/ADISH-18/Student-Management-System-Layout-using-Reactjs.git/static/js/453.4c5687d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.969ff8fb.css",
+    "static/js/main.2bf25286.js"
+  ]
+}
