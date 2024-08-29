@@ -1,0 +1,88 @@
+.app {
+    display: flex;
+}
+
+.navbar {
+    width: 20%;
+    font-size: 20px;
+    text-align: center;
+    background-color: #0056b3;
+    width: fit-content;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-item {
+    margin: 20px 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.nav-item:hover {
+    background-color: #004494;
+}
+
+.nav-item span {
+    margin-left: 10px;
+}
+
+.dashboard {
+    width: 80%;
+    padding: 20px;
+}
+
+.info-boxes {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.info-box {
+    flex: 1;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    color: white;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 40px;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.menu-item {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.menu-item:hover {
+    background-color: #e2e6ea;
+}
+
+/* .navbar-item, .menu-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+
+.navbar-item i, .menu-item i {
+    margin-right: 10px;
+}
+
+.navbar-item:hover, .menu-item:hover {
+    transform: scale(1.05);
+} */
